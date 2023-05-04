@@ -1,0 +1,46 @@
+/* /////// Admin Panel /////////// */
+.menutext{
+    padding-left: 80px !important;
+    font-size: 26px !important;
+     font-weight: 600 !important;
+}
+
+.Iconbtn{
+    background: rgba(255, 255, 255, 0.2)!important;
+    border: 1px solid rgba(255, 255, 255, 0.32) !important;
+    border-radius: 12px !important;
+    padding: 10px 30px !important;
+    margin: 10px 10px !important;
+}
+
+.Iconbtn .icon1{
+    margin-right: 10px !important;
+}
+
+.b1{
+    background: rgba(255, 255, 255, 0.2) !important;
+    border: 1px solid rgba(255, 255, 255, 0.32) !important ;
+    border-radius: 12px !important;
+    padding: 10px 15px !important;
+    margin: 10px 10px !important;
+}
+
+.menudesign{
+                background: #eff6ff !important;
+                border-radius: 12px !important;
+                margin: 5px 15px!important; 
+}
+
+.content1{
+    font-size: 16px !important;   
+    color: #2563EB !important;
+    font-weight: 600 !important;
+}
+
+.headcontent{
+    text-align: center !important;
+    font-size: 32px !important;
+    font-family: Source Sans Pro !important;
+    color: black !important;
+    font-weight: 600 !important;
+}

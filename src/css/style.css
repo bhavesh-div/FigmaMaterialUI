@@ -1,0 +1,29 @@
+.form{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 16px auto 0 auto;
+}
+
+.maininput .MuiOutlinedInput-root{
+    background: rgba(243, 242, 255, 0.5);
+    border: 1px solid rgba(99, 91, 255, 0.12);
+    border-radius: 8px;
+}
+
+.mainhead{
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 40px;
+    text-align: center;
+}
+.paragraph{
+    font-weight: 400;
+font-size: 14px;
+text-align: center;
+line-height: 18px;
+color: #929eae;
+}
+
+
+/* /////// Admin Panel ////// */
